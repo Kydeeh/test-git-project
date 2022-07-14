@@ -11,5 +11,6 @@ public class App {
 		System.out.println("新增branch-0715");
 
 		System.out.println("user1新增branch-0715");
+		System.out.println("user2修改共同檔案...");
 	}
 }
